@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Code Next App</string>
+    <string name="home">Home</string>
+    <string name="code_next">Code Next</string>
+    <string name="about_the_team">About The Team</string>
+    <string name="coach_name">Coach Name</string>
+    <string name="e_mail">E-mail</string>
+</resources>

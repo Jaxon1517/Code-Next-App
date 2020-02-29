@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomText">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#EEF0F2</item>
+        <item name="android:fontFamily">@font/archivo_black</item>
+    </style>
+</resources>
